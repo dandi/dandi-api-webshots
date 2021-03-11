@@ -1,6 +1,7 @@
 name: Update webshots
 
 on:
+  pull_request:
   schedule:
     - cron: '0 */6 * * *'
 
@@ -16,15 +17,21 @@ jobs:
         with:
           python-version: '^3.8'
 
+      - name: Install h5py dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y libhdf5-dev
+          python -m pip install 'numpy<1.19.4'
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip wheel
           python -m pip install -r tools/requirements.txt
 
       - name: Run webshots script
-        run: python tools/make_webshots.py
+        run: xvfb-run python tools/make_webshots.py
 
       - name: Commit changes
+        if: github.event_name == 'schedule'
         run: |
           git config --global user.email "team@dandiarchive.org"
           git config --global user.name "DANDI Bot"
