@@ -28,7 +28,7 @@ jobs:
           python -m pip install -r tools/requirements.txt
 
       - name: Run webshots script
-        run: python tools/make_webshots.py
+        run: xvfb-run python tools/make_webshots.py
 
       - name: Commit changes
         if: github.event_name == 'schedule'
