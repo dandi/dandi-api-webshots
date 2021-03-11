@@ -4,6 +4,11 @@ on:
   pull_request:
   schedule:
     - cron: '0 */6 * * *'
+  push:
+    branches:
+      - master
+    paths:
+      - 'tools/make_webshots.py'
 
 jobs:
   update:
@@ -31,7 +36,7 @@ jobs:
         run: xvfb-run python tools/make_webshots.py
 
       - name: Commit changes
-        if: github.event_name == 'schedule'
+        if: github.event_name != 'pull_request'
         run: |
           git config --global user.email "team@dandiarchive.org"
           git config --global user.name "DANDI Bot"
