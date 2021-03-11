@@ -1,6 +1,7 @@
 name: Update webshots
 
 on:
+  pull_request:
   schedule:
     - cron: '0 */6 * * *'
 
@@ -25,6 +26,7 @@ jobs:
         run: python tools/make_webshots.py
 
       - name: Commit changes
+        if: github.event_name == 'schedule'
         run: |
           git config --global user.email "team@dandiarchive.org"
           git config --global user.name "DANDI Bot"
