@@ -38,6 +38,13 @@ jobs:
           DANDI_USERNAME: ${{ secrets.DANDI_USERNAME }}
           DANDI_PASSWORD: ${{ secrets.DANDI_PASSWORD }}
 
+      - name: Upload screenshot of failure
+        if: failure()
+        uses: actions/upload-artifact@v2
+        with:
+          name: failure.png
+          path: failure.png
+
       - name: Commit changes
         if: github.event_name != 'pull_request'
         run: |
