@@ -37,6 +37,7 @@ jobs:
         env:
           DANDI_USERNAME: ${{ secrets.DANDI_USERNAME }}
           DANDI_PASSWORD: ${{ secrets.DANDI_PASSWORD }}
+          DANDI_DEVICE_ID: ${{ secrets.DANDI_DEVICE_ID }}
 
       - name: Upload screenshot of failure
         if: failure()
