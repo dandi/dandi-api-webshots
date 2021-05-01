@@ -40,7 +40,6 @@ jobs:
           DANDI_DEVICE_ID: ${{ secrets.DANDI_DEVICE_ID }}
 
       - name: Upload screenshot of failure
-        if: failure()
         uses: actions/upload-artifact@v2
         with:
           name: Screenshots
