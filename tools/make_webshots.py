@@ -9,6 +9,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.chrome.options import Options
+from selenium.common.exceptions import TimeoutException
 import yaml
 
 ARCHIVE_GUI = "https://gui-beta-dandiarchive-org.netlify.app"
@@ -22,32 +24,36 @@ def get_dandisets():
     return sorted(x['identifier'] for x in dandisets['results'])
 
 
-def login(driver, username, password, device_id):
+def login(driver, username, password):
+
+    driver.get("https://github.com/login")
+    WebDriverWait(driver, 30).until(
+        EC.invisibility_of_element_located((By.NAME, "commit")))
+    try:
+        driver.find_element_by_id("login_field").clear()
+        driver.find_element_by_id("login_field").send_keys(username)
+        driver.find_element_by_id("password").clear()
+        driver.find_element_by_id("password").send_keys(password)
+        driver.find_element_by_name("commit").click()
+    except Exception:
+        driver.save_screenshot("github-failure.png")
+        raise
+
     driver.get(ARCHIVE_GUI)
-    driver.add_cookie({"name": "_device_id", "value": device_id})
     wait_no_progressbar(driver, "v-progress-circular")
     try:
-        login_button = driver.find_elements_by_xpath(
-            "//*[@id='app']/div/header/div/button[2]"
-        )[0]
-        login_text = login_button.text.strip().lower()
-        assert login_text == "login", f"Login button did not have expected text; expected 'login', got {login_text!r}"
-        login_button.click()
-
-        WebDriverWait(driver, 30).until(
-            EC.presence_of_element_located((By.ID, "login_field")))
-
-        username_field = driver.find_element_by_id("login_field")
-        password_field = driver.find_element_by_id("password")
-        username_field.send_keys(username)
-        password_field.send_keys(password)
-        driver.save_screenshot("logging-in.png")
-        driver.find_elements_by_tag_name("form")[0].submit()
-
-        WebDriverWait(driver, 30).until(
-            EC.presence_of_element_located((By.CLASS_NAME, "v-avatar")))
+        login_el = driver.find_elements_by_class_name('mx-1').pop()
+        login_el.click()
+        try:
+            element = WebDriverWait(driver, 5).until(
+                EC.presence_of_element_located((By.NAME, "allow"))
+            )
+        except TimeoutException:
+            pass
+        else:
+            element.click()
     except Exception:
-        driver.save_screenshot("failure.png")
+        driver.save_screenshot("dandi-failure.png")
         raise
 
 
@@ -117,10 +123,14 @@ if __name__ == '__main__':
         doreadme = True
 
     readme = ''
+    options = Options()
+    options.add_argument('--no-sandbox')
+    options.add_argument('--headless')
+    options.add_argument('--disable-gpu')
+    options.add_argument("--window-size=1920, 1200")
     driver = webdriver.Chrome()
     # warm up
-    driver.get(ARCHIVE_GUI)
-    login(driver, os.environ["DANDI_USERNAME"], os.environ["DANDI_PASSWORD"], os.environ["DANDI_DEVICE_ID"])
+    login(driver, os.environ["DANDI_USERNAME"], os.environ["DANDI_PASSWORD"])
     for ds in dandisets:
         readme += process_dandiset(driver, ds)
     driver.quit()
