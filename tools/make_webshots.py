@@ -28,7 +28,7 @@ def login(driver, username, password):
 
     driver.get("https://github.com/login")
     WebDriverWait(driver, 30).until(
-        EC.invisibility_of_element_located((By.NAME, "commit")))
+        EC.presence_of_element_located((By.NAME, "commit")))
     try:
         driver.find_element_by_id("login_field").clear()
         driver.find_element_by_id("login_field").send_keys(username)
