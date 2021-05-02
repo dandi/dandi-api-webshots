@@ -38,6 +38,8 @@ def login(driver, username, password):
     except Exception:
         driver.save_screenshot("github-failure.png")
         raise
+    else:
+        driver.save_screenshot("github-logged.png")
 
     driver.get(ARCHIVE_GUI)
     wait_no_progressbar(driver, "v-progress-circular")
@@ -55,6 +57,8 @@ def login(driver, username, password):
     except Exception:
         driver.save_screenshot("dandi-failure.png")
         raise
+    else:
+        driver.save_screenshot("dandi-logged.png")
 
 
 def wait_no_progressbar(driver, cls):
