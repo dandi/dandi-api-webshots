@@ -1,17 +1,16 @@
 #!/usr/bin/env python3
-
+from functools import partial
+import os
+from pathlib import Path
 import sys
 import time
 
-from functools import partial
-import yaml
-
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
-from selenium import webdriver
-
-from pathlib import Path
+import yaml
 
 ARCHIVE_GUI = "https://gui-beta-dandiarchive-org.netlify.app"
 
@@ -24,11 +23,40 @@ def get_dandisets():
     return sorted(x['identifier'] for x in dandisets['results'])
 
 
-def process_dandiset(driver, ds):
+def login(driver, username, password):
+    driver.get(ARCHIVE_GUI)
+    wait_no_progressbar(driver, "v-progress-circular")
+    try:
+        login_button = driver.find_elements_by_xpath(
+            "//*[@id='app']/div/header/div/button[2]"
+        )[0]
+        login_text = login_button.text.strip().lower()
+        assert login_text == "login or create account", f"Login button did not have expected text; expected 'login', got {login_text!r}"
+        login_button.click()
 
-    def wait_no_progressbar(cls):
         WebDriverWait(driver, 30).until(
-            EC.invisibility_of_element_located((By.CLASS_NAME, cls)))
+            EC.presence_of_element_located((By.ID, "login_field")))
+
+        username_field = driver.find_element_by_id("login_field")
+        password_field = driver.find_element_by_id("password")
+        username_field.send_keys(username)
+        password_field.send_keys(password)
+        #driver.save_screenshot("logging-in.png")
+        driver.find_elements_by_tag_name("form")[0].submit()
+
+        WebDriverWait(driver, 30).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "v-avatar")))
+    except Exception:
+        #driver.save_screenshot("failure.png")
+        raise
+
+
+def wait_no_progressbar(driver, cls):
+    WebDriverWait(driver, 30).until(
+        EC.invisibility_of_element_located((By.CLASS_NAME, cls)))
+
+
+def process_dandiset(driver, ds):
 
     def click_edit():
         submit_button = driver.find_elements_by_xpath(
@@ -47,10 +75,10 @@ def process_dandiset(driver, ds):
     # TODO: do not do draft unless there is one
     # TODO: do for a released version
     for urlsuf, page, wait, act in [
-        ('', 'landing', partial(wait_no_progressbar, "v-progress-circular"), None),
+        ('', 'landing', partial(wait_no_progressbar, driver, "v-progress-circular"), None),
         # without login I cannot edit metadata, so let it not be used for now
         # (None, 'edit-metadata', None, click_edit),
-        ('/draft/files', 'view-data', partial(wait_no_progressbar, "v-progress-linear"), None)]:
+        ('/draft/files', 'view-data', partial(wait_no_progressbar, driver, "v-progress-linear"), None)]:
 
         page_name = dspath / page
 
@@ -89,9 +117,15 @@ if __name__ == '__main__':
         doreadme = True
 
     readme = ''
+    options = Options()
+    options.add_argument('--no-sandbox')
+    options.add_argument('--headless')
+    options.add_argument('--disable-gpu')
+    options.add_argument("--window-size=1920, 1200")
     driver = webdriver.Chrome()
     # warm up
     driver.get(ARCHIVE_GUI)
+    login(driver, os.environ["DANDI_USERNAME"], os.environ["DANDI_PASSWORD"])
     for ds in dandisets:
         readme += process_dandiset(driver, ds)
     driver.quit()
