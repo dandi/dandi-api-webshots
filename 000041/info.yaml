@@ -1,4 +1,7 @@
 times:
-  edit-metadata: timeout
-  landing: 1.1232188325375319
-  view-data: 0.5885974355041981
+  edit-metadata: "Message: invalid session id\n  (Driver info: chromedriver=73.0.3683.75,platform=Linux\
+    \ 4.19.0-0.bpo.9-amd64 x86_64)"
+  landing: 'HTTPConnectionPool(host=''127.0.0.1'', port=58209): Read timed out. (read
+    timeout=<object object at 0x7fed03d0e030>)'
+  view-data: "Message: invalid session id\n  (Driver info: chromedriver=73.0.3683.75,platform=Linux\
+    \ 4.19.0-0.bpo.9-amd64 x86_64)"

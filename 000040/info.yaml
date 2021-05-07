@@ -1,4 +1,6 @@
 times:
-  edit-metadata: timeout
-  landing: 1.1410378143191338
-  view-data: 0.596155971288681
+  edit-metadata: 'HTTPConnectionPool(host=''127.0.0.1'', port=58209): Read timed out.
+    (read timeout=<object object at 0x7fed03d0e030>)'
+  landing: 0.6995126660913229
+  view-data: 'HTTPConnectionPool(host=''127.0.0.1'', port=58209): Read timed out.
+    (read timeout=<object object at 0x7fed03d0e030>)'

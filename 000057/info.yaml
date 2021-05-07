@@ -1,4 +1,7 @@
 times:
-  edit-metadata: timeout
-  landing: 1.2430758886039257
-  view-data: 0.5634545814245939
+  edit-metadata: "Message: invalid session id\n  (Driver info: chromedriver=73.0.3683.75,platform=Linux\
+    \ 4.19.0-0.bpo.9-amd64 x86_64)"
+  landing: "Message: invalid session id\n  (Driver info: chromedriver=73.0.3683.75,platform=Linux\
+    \ 4.19.0-0.bpo.9-amd64 x86_64)"
+  view-data: "Message: invalid session id\n  (Driver info: chromedriver=73.0.3683.75,platform=Linux\
+    \ 4.19.0-0.bpo.9-amd64 x86_64)"
