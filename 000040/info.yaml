@@ -1,8 +1,7 @@
 times:
-  edit-metadata: "Message: unknown error: session deleted because of page crash\n\
-    from unknown error: cannot determine loading status\nfrom tab crashed\n  (Session\
-    \ info: headless chrome=73.0.3683.75)\n  (Driver info: chromedriver=73.0.3683.75,platform=Linux\
-    \ 4.19.0-0.bpo.9-amd64 x86_64)"
-  landing: 1.1526704356074333
-  view-data: "Message: invalid session id\n  (Driver info: chromedriver=73.0.3683.75,platform=Linux\
-    \ 4.19.0-0.bpo.9-amd64 x86_64)"
+  edit-metadata: timeout
+  landing: 1.126405032351613
+  view-data: 'HTTPConnectionPool(host=''127.0.0.1'', port=45913): Max retries exceeded
+    with url: /session/f1b59935c31f911d166fca6f166b2412/element (Caused by NewConnectionError(''<urllib3.connection.HTTPConnection
+    object at 0x7f917e758820>: Failed to establish a new connection: [Errno 111] Connection
+    refused''))'

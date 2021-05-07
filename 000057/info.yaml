@@ -1,7 +1,13 @@
 times:
-  edit-metadata: "Message: invalid session id\n  (Driver info: chromedriver=73.0.3683.75,platform=Linux\
-    \ 4.19.0-0.bpo.9-amd64 x86_64)"
-  landing: "Message: invalid session id\n  (Driver info: chromedriver=73.0.3683.75,platform=Linux\
-    \ 4.19.0-0.bpo.9-amd64 x86_64)"
-  view-data: "Message: invalid session id\n  (Driver info: chromedriver=73.0.3683.75,platform=Linux\
-    \ 4.19.0-0.bpo.9-amd64 x86_64)"
+  edit-metadata: 'HTTPConnectionPool(host=''127.0.0.1'', port=45913): Max retries
+    exceeded with url: /session/f1b59935c31f911d166fca6f166b2412/element (Caused by
+    NewConnectionError(''<urllib3.connection.HTTPConnection object at 0x7f917e757c10>:
+    Failed to establish a new connection: [Errno 111] Connection refused''))'
+  landing: 'HTTPConnectionPool(host=''127.0.0.1'', port=45913): Max retries exceeded
+    with url: /session/f1b59935c31f911d166fca6f166b2412/url (Caused by NewConnectionError(''<urllib3.connection.HTTPConnection
+    object at 0x7f917f1b9610>: Failed to establish a new connection: [Errno 111] Connection
+    refused''))'
+  view-data: 'HTTPConnectionPool(host=''127.0.0.1'', port=45913): Max retries exceeded
+    with url: /session/f1b59935c31f911d166fca6f166b2412/url (Caused by NewConnectionError(''<urllib3.connection.HTTPConnection
+    object at 0x7f917e767d90>: Failed to establish a new connection: [Errno 111] Connection
+    refused''))'
