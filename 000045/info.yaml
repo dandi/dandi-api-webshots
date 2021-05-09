@@ -1,13 +1,4 @@
 times:
-  edit-metadata: 'HTTPConnectionPool(host=''127.0.0.1'', port=45913): Max retries
-    exceeded with url: /session/f1b59935c31f911d166fca6f166b2412/element (Caused by
-    NewConnectionError(''<urllib3.connection.HTTPConnection object at 0x7f917e77d460>:
-    Failed to establish a new connection: [Errno 111] Connection refused''))'
-  landing: 'HTTPConnectionPool(host=''127.0.0.1'', port=45913): Max retries exceeded
-    with url: /session/f1b59935c31f911d166fca6f166b2412/url (Caused by NewConnectionError(''<urllib3.connection.HTTPConnection
-    object at 0x7f917e767d60>: Failed to establish a new connection: [Errno 111] Connection
-    refused''))'
-  view-data: 'HTTPConnectionPool(host=''127.0.0.1'', port=45913): Max retries exceeded
-    with url: /session/f1b59935c31f911d166fca6f166b2412/url (Caused by NewConnectionError(''<urllib3.connection.HTTPConnection
-    object at 0x7f917e7103d0>: Failed to establish a new connection: [Errno 111] Connection
-    refused''))'
+  edit-metadata: 0.8480577506124973
+  landing: 0.5699901077896357
+  view-data: 0.6907647382467985
