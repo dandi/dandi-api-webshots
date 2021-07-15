@@ -163,6 +163,18 @@ def process_dandiset(driver, ds):
                     log.debug("Before wait")
                     wait()
                     log.debug("After wait")
+
+                # click on avatar to get modal with API appear
+                driver.find_element_by_class_name('v-avatar').click()
+                api_key_input = driver.find_element_by_xpath('//input[@readonly="readonly"]')
+                driver.execute_script(
+                    "arguments[0].setAttribute('style', 'font-color:black;background-color:black')",
+                    api_key_input
+                )
+                # to get a screenshot of a specific element, just do it
+                import rich
+                # driver.find_element_by_id('list-item-51').screenshot('/tmp/1.png')
+                import pdb; pdb.set_trace()
             except TimeoutException:
                 log.debug("Timed out")
                 t = 'timeout'
@@ -209,7 +221,7 @@ def process_dandiset(driver, ds):
 def get_ready_driver():
     options = Options()
     options.add_argument('--no-sandbox')
-    options.add_argument('--headless')
+    #options.add_argument('--headless')
     options.add_argument('--incognito')
     #options.add_argument('--disable-gpu')
     options.add_argument("--window-size=1024,1400")
