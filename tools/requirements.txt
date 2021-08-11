@@ -1,5 +1,0 @@
-dandi
-pyyaml
-selenium
-
-# Non-Python requirement: chromedriver
