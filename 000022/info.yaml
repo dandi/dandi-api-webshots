@@ -6,5 +6,5 @@ times:
     \" class=\"Cookie Cookie--bottom Cookie--blood-orange\">...</div>\n  (Session\
     \ info: headless chrome=73.0.3683.75)\n  (Driver info: chromedriver=73.0.3683.75,platform=Linux\
     \ 4.19.0-0.bpo.9-amd64 x86_64)"
-  landing: 0.02344166673719883
-  view-data: 0.1273971125483513
+  landing: 0.022579658776521683
+  view-data: 0.025108467787504196
