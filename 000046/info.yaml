@@ -1,4 +1,6 @@
 times:
   edit-metadata: timeout
-  landing: 0.025898020947352052
-  view-data: 0.027848540106788278
+  landing: timeout
+  view-data: "Message: chrome not reachable\n  (Session info: headless chrome=73.0.3683.75)\n\
+    \  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64\
+    \ x86_64)"

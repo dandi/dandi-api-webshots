@@ -1,4 +1,5 @@
 times:
   edit-metadata: timeout
-  landing: 0.16416372591629624
-  view-data: 0.029933798825368285
+  landing: "Message: unknown error: unable to discover open pages\n  (Driver info:\
+    \ chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)"
+  view-data: timeout
