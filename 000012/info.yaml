@@ -1,9 +1,4 @@
 times:
   edit-metadata: timeout
-  landing: "Message: unknown error: unable to discover open pages\n  (Driver info:\
-    \ chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)"
-  view-data: "Message: unknown error: Chrome failed to start: exited abnormally\n\
-    \  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started\
-    \ from chrome location /usr/bin/chromium is no longer running, so ChromeDriver\
-    \ is assuming that Chrome has crashed.)\n  (Driver info: chromedriver=73.0.3683.75,platform=Linux\
-    \ 4.19.0-0.bpo.9-amd64 x86_64)"
+  landing: 0.02685337606817484
+  view-data: 0.12304742098785937
