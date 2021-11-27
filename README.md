@@ -12,14 +12,17 @@
 | ![](000003/landing.png) | ![](000003/edit-metadata.png) | ![](000003/view-data.png) |
 
 #### Error Messages
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000004
 
@@ -28,15 +31,17 @@
 | ![](000004/landing.png) | ![](000004/edit-metadata.png) | ![](000004/view-data.png) |
 
 #### Error Messages
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000005
 
@@ -45,17 +50,17 @@ from tab crashed
 | ![](000005/landing.png) | ![](000005/edit-metadata.png) | ![](000005/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000006
 
@@ -64,18 +69,17 @@ from tab crashed
 | ![](000006/landing.png) | ![](000006/edit-metadata.png) | ![](000006/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000007
 
@@ -84,19 +88,17 @@ from tab crashed
 | ![](000007/landing.png) | ![](000007/edit-metadata.png) | ![](000007/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000008
 
@@ -105,18 +107,17 @@ from tab crashed
 | ![](000008/landing.png) | ![](000008/edit-metadata.png) | ![](000008/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000009
 
@@ -125,15 +126,17 @@ from tab crashed
 | ![](000009/landing.png) | ![](000009/edit-metadata.png) | ![](000009/view-data.png) |
 
 #### Error Messages
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000010
 
@@ -142,20 +145,17 @@ from tab crashed
 | ![](000010/landing.png) | ![](000010/edit-metadata.png) | ![](000010/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000011
 
@@ -164,17 +164,17 @@ from tab crashed
 | ![](000011/landing.png) | ![](000011/edit-metadata.png) | ![](000011/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='login']"}
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000012
 
@@ -183,19 +183,17 @@ from tab crashed
 | ![](000012/landing.png) | ![](000012/edit-metadata.png) | ![](000012/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000013
 
@@ -204,18 +202,17 @@ from tab crashed
 | ![](000013/landing.png) | ![](000013/edit-metadata.png) | ![](000013/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000015
 
@@ -224,17 +221,17 @@ from tab crashed
 | ![](000015/landing.png) | ![](000015/edit-metadata.png) | ![](000015/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000016
 
@@ -243,18 +240,17 @@ from tab crashed
 | ![](000016/landing.png) | ![](000016/edit-metadata.png) | ![](000016/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000017
 
@@ -263,18 +259,17 @@ from tab crashed
 | ![](000017/landing.png) | ![](000017/edit-metadata.png) | ![](000017/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000018
 
@@ -283,18 +278,17 @@ from tab crashed
 | ![](000018/landing.png) | ![](000018/edit-metadata.png) | ![](000018/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000019
 
@@ -303,20 +297,17 @@ from tab crashed
 | ![](000019/landing.png) | ![](000019/edit-metadata.png) | ![](000019/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000020
 
@@ -325,19 +316,17 @@ from tab crashed
 | ![](000020/landing.png) | ![](000020/edit-metadata.png) | ![](000020/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000021
 
@@ -346,17 +335,17 @@ from tab crashed
 | ![](000021/landing.png) | ![](000021/edit-metadata.png) | ![](000021/view-data.png) |
 
 #### Error Messages
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000022
 
@@ -365,16 +354,17 @@ from tab crashed
 | ![](000022/landing.png) | ![](000022/edit-metadata.png) | ![](000022/view-data.png) |
 
 #### Error Messages
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000023
 
@@ -383,18 +373,17 @@ from tab crashed
 | ![](000023/landing.png) | ![](000023/edit-metadata.png) | ![](000023/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000024
 
@@ -403,17 +392,17 @@ from tab crashed
 | ![](000024/landing.png) | ![](000024/edit-metadata.png) | ![](000024/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000025
 
@@ -422,18 +411,17 @@ from tab crashed
 | ![](000025/landing.png) | ![](000025/edit-metadata.png) | ![](000025/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000026
 
@@ -442,18 +430,17 @@ from tab crashed
 | ![](000026/landing.png) | ![](000026/edit-metadata.png) | ![](000026/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000027
 
@@ -462,18 +449,17 @@ from tab crashed
 | ![](000027/landing.png) | ![](000027/edit-metadata.png) | ![](000027/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from unknown error: cannot determine loading status
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000028
 
@@ -482,16 +468,17 @@ from tab crashed
 | ![](000028/landing.png) | ![](000028/edit-metadata.png) | ![](000028/view-data.png) |
 
 #### Error Messages
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: session deleted because of page crash
-from tab crashed
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000029
 
@@ -500,14 +487,17 @@ from tab crashed
 | ![](000029/landing.png) | ![](000029/edit-metadata.png) | ![](000029/view-data.png) |
 
 #### Error Messages
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000030
 
@@ -516,14 +506,17 @@ from tab crashed
 | ![](000030/landing.png) | ![](000030/edit-metadata.png) | ![](000030/view-data.png) |
 
 #### Error Messages
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000031
 
@@ -532,11 +525,13 @@ from tab crashed
 | ![](000031/landing.png) | ![](000031/edit-metadata.png) | ![](000031/view-data.png) |
 
 #### Error Messages
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: chrome not reachable
-  (Session info: headless chrome=73.0.3683.75)
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
   (unknown error: DevToolsActivePort file doesn't exist)
@@ -554,7 +549,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -569,7 +564,7 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -592,7 +587,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -607,11 +602,11 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -634,7 +629,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000037
@@ -645,15 +640,15 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
   (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000038
@@ -691,7 +686,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000040
@@ -706,11 +701,11 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000041
@@ -721,15 +716,15 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
   (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000042
@@ -740,7 +735,7 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -763,7 +758,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -782,7 +777,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -805,7 +800,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000046
@@ -820,11 +815,11 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000047
@@ -835,15 +830,15 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
   (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
   (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000048
@@ -854,11 +849,11 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -873,11 +868,11 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -896,7 +891,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -930,11 +925,11 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -953,7 +948,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -991,7 +986,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1006,15 +1001,15 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000057
@@ -1022,25 +1017,6 @@ from tab crashed
 | t=[See below] [Go to page](https://gui.dandiarchive.org/#/dandiset/000057) | t=[See below] Edit Metadata | t=[See below] [Go to page](https://gui.dandiarchive.org/#/dandiset/000057/draft/files) |
 | --- | --- | --- |
 | ![](000057/landing.png) | ![](000057/edit-metadata.png) | ![](000057/view-data.png) |
-
-#### Error Messages
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-### 000058
-
-| t=[See below] [Go to page](https://gui.dandiarchive.org/#/dandiset/000058) | t=[See below] Edit Metadata | t=[See below] [Go to page](https://gui.dandiarchive.org/#/dandiset/000058/draft/files) |
-| --- | --- | --- |
-| ![](000058/landing.png) | ![](000058/edit-metadata.png) | ![](000058/view-data.png) |
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1052,7 +1028,26 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+### 000058
+
+| t=[See below] [Go to page](https://gui.dandiarchive.org/#/dandiset/000058) | t=[See below] Edit Metadata | t=[See below] [Go to page](https://gui.dandiarchive.org/#/dandiset/000058/draft/files) |
+| --- | --- | --- |
+| ![](000058/landing.png) | ![](000058/edit-metadata.png) | ![](000058/view-data.png) |
+
+#### Error Messages
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
   (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000059
@@ -1082,7 +1077,7 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1101,11 +1096,11 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1120,7 +1115,7 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1143,11 +1138,11 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000065
@@ -1181,11 +1176,11 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000067
@@ -1204,7 +1199,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000068
@@ -1215,7 +1210,7 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1242,7 +1237,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000070
@@ -1253,15 +1248,15 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
   (unknown error: DevToolsActivePort file doesn't exist)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000071
@@ -1310,15 +1305,15 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000106
@@ -1329,15 +1324,15 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000107
@@ -1348,15 +1343,15 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
   (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000108
@@ -1367,7 +1362,7 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1386,11 +1381,11 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1409,7 +1404,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1424,7 +1419,7 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1432,7 +1427,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000112
@@ -1443,7 +1438,7 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1466,11 +1461,11 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000114
@@ -1485,7 +1480,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1508,7 +1503,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000116
@@ -1538,11 +1533,11 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1557,11 +1552,11 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1584,7 +1579,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000120
@@ -1595,7 +1590,7 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1622,7 +1617,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000122
@@ -1633,11 +1628,11 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1652,7 +1647,7 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1675,7 +1670,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1698,7 +1693,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000126
@@ -1732,11 +1727,11 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000128
@@ -1770,7 +1765,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1789,7 +1784,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1804,11 +1799,11 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1831,7 +1826,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000133
@@ -1865,11 +1860,11 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000135
@@ -1884,11 +1879,11 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000136
@@ -1903,7 +1898,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1922,7 +1917,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1937,7 +1932,7 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -1975,15 +1970,15 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
   (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
   (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000141
@@ -1994,7 +1989,7 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -2032,7 +2027,7 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -2059,7 +2054,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000145
@@ -2074,7 +2069,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -2093,11 +2088,11 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000147
@@ -2108,11 +2103,11 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -2131,11 +2126,11 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000149
@@ -2150,7 +2145,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -2173,7 +2168,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000151
@@ -2188,7 +2183,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -2211,7 +2206,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000153
@@ -2241,11 +2236,11 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -2260,15 +2255,15 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
   (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000156
@@ -2298,11 +2293,11 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -2325,7 +2320,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000159
@@ -2355,11 +2350,11 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -2374,15 +2369,15 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
   (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000162
@@ -2393,7 +2388,7 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -2401,7 +2396,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000163
@@ -2416,11 +2411,11 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000164
@@ -2431,15 +2426,15 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
   (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000165
@@ -2458,7 +2453,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000166
@@ -2477,7 +2472,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000167
@@ -2496,7 +2491,7 @@ from tab crashed
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 ### 000168
@@ -2526,11 +2521,11 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
+  (unknown error: DevToolsActivePort file doesn't exist)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
@@ -2545,14 +2540,14 @@ from tab crashed
 
 #### Error Messages
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
-  (unknown error: DevToolsActivePort file doesn't exist)
-  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
-<pre>Message: unknown error: Chrome failed to start: exited abnormally
   (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
 <pre>Message: unknown error: Chrome failed to start: exited abnormally
   (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+  (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
+<pre>Message: unknown error: Chrome failed to start: exited abnormally
+  (unknown error: Devtools port number file contents &lt;&gt; were in an unexpected format)
   (The process started from chrome location /usr/bin/chromium is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
   (Driver info: chromedriver=73.0.3683.75,platform=Linux 4.19.0-0.bpo.9-amd64 x86_64)</pre>
