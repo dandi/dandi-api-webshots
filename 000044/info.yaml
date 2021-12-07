@@ -1,4 +1,4 @@
 times:
-  edit-metadata: timeout
-  landing: timeout
-  view-data: timeout
+  edit-metadata: 0.8049556249752641
+  landing: 0.044252448715269566
+  view-data: 0.31550252297893167
